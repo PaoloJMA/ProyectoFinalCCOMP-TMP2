@@ -1,0 +1,11 @@
+﻿  Character.cpp
+C:\Users\poyoy\OneDrive\Escritorio\RPGGGGGG\ConsoleRPG-master\ConsoleRPG\Inventory.h(27,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\poyoy\OneDrive\Escritorio\RPGGGGGG\ConsoleRPG-master\ConsoleRPG\Character.cpp(159,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\poyoy\OneDrive\Escritorio\RPGGGGGG\ConsoleRPG-master\ConsoleRPG\Character.cpp(179,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\poyoy\OneDrive\Escritorio\RPGGGGGG\ConsoleRPG-master\ConsoleRPG\Character.cpp(187,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\poyoy\OneDrive\Escritorio\RPGGGGGG\ConsoleRPG-master\ConsoleRPG\Character.cpp(279,25): warning C4018: '>=': no coinciden signed/unsigned
+  main.cpp
+C:\Users\poyoy\OneDrive\Escritorio\RPGGGGGG\ConsoleRPG-master\ConsoleRPG\Inventory.h(27,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\poyoy\OneDrive\Escritorio\RPGGGGGG\ConsoleRPG-master\ConsoleRPG\main.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  ConsoleRPG.vcxproj -> C:\Users\poyoy\OneDrive\Escritorio\RPGGGGGG\ConsoleRPG-master\Debug\ConsoleRPG.exe
